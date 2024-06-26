@@ -1,0 +1,4 @@
+11, Aloo Tikki Burger, 40, 15,
+12, Cheese Sandwich, 25, 23,
+13, Vada Pav, 15, 12,
+14, Pav Bhaji, 65, 41,

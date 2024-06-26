@@ -1,0 +1,5 @@
+31, Aloo Tikki Burger, 35, 21,
+32, Pav Bhaji, 60, 33,
+33, Vegetable Pizza, 120, 14,
+34, Vegetable Chowmein, 55.35, 22,
+35, Honey Chilli Potatoes, 74.8, 31,

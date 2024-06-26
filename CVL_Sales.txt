@@ -1,0 +1,2 @@
+31, Aloo Tikki Burger, 35, 20, 700,
+33, Vegetable Pizza, 120, 10, 1200,
